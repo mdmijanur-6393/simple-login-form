@@ -18,7 +18,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 400px;
-  background: rgb(231, 14, 14);
+  background: rgb(140, 16, 16);
   border-radius: 10px;
   box-shadow: 10px rgba(0, 0, 0, 0, 0.5);
 }
@@ -26,7 +26,7 @@ body {
 .container h1 {
   text-align: center;
   padding: 20px 0px;
-  border-bottom: 1px solid rgb(151, 13, 13);
+  border-bottom: 1px solid rgb(150, 128, 128);
 }
 
 .container form {
@@ -52,7 +52,7 @@ body {
 
 .pass_forget a {
   margin: -5px 0px 20px 5px;
-  color: #be2525;
+  color: #772b2b;
   cursor: pointer;
   text-decoration: none;
 }
@@ -68,7 +68,7 @@ input[type="submit"] {
   background: #2691d9;
   border-radius: 25px;
   font-size: 18px;
-  color: #1595e6;
+  color: #20ae22;
   font-weight: 700;
   outline: none;
   cursor: pointer;
@@ -84,12 +84,12 @@ input[type="submit"]:active
   margin: 30px 0px;
   text-align: center;
   font-size: 16px;
-  color: #df1313;
+  color: #540f0f;
 }
 
 .signup-link a {
   text-decoration: none;
-  color: rgb(46, 5, 5);
+  color: rgb(41, 24, 166);
 }
 .signup-link a:hover {
   text-decoration: underline;
